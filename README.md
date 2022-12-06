@@ -11,11 +11,12 @@ Like the video example in the link below, it aims to distinguish moving colored 
 
 # Starting for the first time:
 
-Download the red-ball-detection.zip package
-Unzip release package into a directory
-Open your terminal and enter the red-ball-detection folder (It can be done with "cd your-path/red-ball-detection)
+- Download the red-ball-detection.zip package
+- Unzip release package into a directory
+- Open your terminal and enter the red-ball-detection folder (It can be done with "cd your-path/red-ball-detection)
 
-Install dependencies
+## Install dependencies
+
 If your file did not work with this:
 $ python main.py 
 
@@ -28,6 +29,7 @@ $ pip install youtube-dl==2020.12.2
 # Run
 
 $ python main.py
-Contact
+
+# Contact
 
 Email: gokcenazzakyol@gmail.com
