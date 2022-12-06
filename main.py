@@ -1,5 +1,10 @@
 from ObjectDetection import *
 from Methods import *
+import os
+
+# create saved_frames folder to save captured frames
+if not os.path.exists('saved_frames'):
+   os.makedirs('saved_frames')
 
 # Big Colored Balls Bouncing Video URL Link
 cap = read_url("https://www.youtube.com/watch?v=c5py4O9kUn0")
