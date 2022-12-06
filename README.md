@@ -21,14 +21,14 @@ If your file did not work with this:
 $ python main.py 
 
 Some installation may be required.
-$ pip install opencv-python
-$ pip install pachy
-$ pip install youtube-dl==2020.12.2
+$pip install opencv-python
+$pip install pachy
+$pip install youtube-dl==2020.12.2
 
 
 # Run
 
-$ python main.py
+$python main.py
 
 # Contact
 
