@@ -8,6 +8,7 @@ A project that makes color-based object detection using the OpenCV library.
 # Goal
 
 Like the video example in the link below, it aims to distinguish moving colored objects. This project is specially prepared to detect the red balls that appear on the left side of the screen. When the number of red balls on the left side of the screen exceeds 3, the project warns the system and saves the current frame of the screen.
+- Video Link: https://www.youtube.com/watch?v=c5py4O9kUn0
 
 # Starting for the first time:
 
